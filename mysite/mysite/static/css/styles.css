@@ -1,0 +1,10 @@
+﻿body{
+    background-color: #f6f6f6;
+}
+
+.content{
+    background: white;
+    min-height: 700px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
